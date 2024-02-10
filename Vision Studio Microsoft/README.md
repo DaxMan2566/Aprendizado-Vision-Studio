@@ -1,7 +1,7 @@
 
 # Sobre:
 
-Sabemos que hoje a Ai vem dominando todos os setores de tecnologia, com isso, venho me dedicando ao aprendizado, Segue abaixo um link com as imagens usadas dentro da aidp vision studio e os resultados que nele me entregou.
+Sabemos que hoje a Ai vem dominando todos os setores de tecnologia, com isso, venho me dedicando ao aprendizado, Segue abaixo um link com as imagens usadas dentro da ai vision studio e os resultados que nele me entregou.
 
 # Imagens usadas:
 
